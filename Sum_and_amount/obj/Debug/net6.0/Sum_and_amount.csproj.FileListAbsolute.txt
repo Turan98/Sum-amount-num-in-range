@@ -1,0 +1,15 @@
+D:\CSharp\Console\Sum_and_amount\bin\Debug\net6.0\Sum_and_amount.exe
+D:\CSharp\Console\Sum_and_amount\bin\Debug\net6.0\Sum_and_amount.deps.json
+D:\CSharp\Console\Sum_and_amount\bin\Debug\net6.0\Sum_and_amount.runtimeconfig.json
+D:\CSharp\Console\Sum_and_amount\bin\Debug\net6.0\Sum_and_amount.dll
+D:\CSharp\Console\Sum_and_amount\bin\Debug\net6.0\Sum_and_amount.pdb
+D:\CSharp\Console\Sum_and_amount\obj\Debug\net6.0\Sum_and_amount.csproj.AssemblyReference.cache
+D:\CSharp\Console\Sum_and_amount\obj\Debug\net6.0\Sum_and_amount.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Console\Sum_and_amount\obj\Debug\net6.0\Sum_and_amount.AssemblyInfoInputs.cache
+D:\CSharp\Console\Sum_and_amount\obj\Debug\net6.0\Sum_and_amount.AssemblyInfo.cs
+D:\CSharp\Console\Sum_and_amount\obj\Debug\net6.0\Sum_and_amount.csproj.CoreCompileInputs.cache
+D:\CSharp\Console\Sum_and_amount\obj\Debug\net6.0\Sum_and_amount.dll
+D:\CSharp\Console\Sum_and_amount\obj\Debug\net6.0\refint\Sum_and_amount.dll
+D:\CSharp\Console\Sum_and_amount\obj\Debug\net6.0\Sum_and_amount.pdb
+D:\CSharp\Console\Sum_and_amount\obj\Debug\net6.0\Sum_and_amount.genruntimeconfig.cache
+D:\CSharp\Console\Sum_and_amount\obj\Debug\net6.0\ref\Sum_and_amount.dll
